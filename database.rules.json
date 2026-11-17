@@ -1,0 +1,9 @@
+{
+  "rules": {
+    "coldstorage": {
+      ".read": true,
+      ".write": true,
+      "history": { ".indexOn": ["ts"] }
+    }
+  }
+}
